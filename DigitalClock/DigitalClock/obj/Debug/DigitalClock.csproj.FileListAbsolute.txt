@@ -1,0 +1,11 @@
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.AssemblyReference.cache
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.DigitalClock.resources
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\luhan\OneDrive\Desktop\C#\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
