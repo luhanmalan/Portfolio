@@ -1,0 +1,14 @@
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.config
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCoder.dll
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Form1.resources
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Properties.Resources.resources
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.GenerateResource.cache
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CopyComplete
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb
+C:\Users\luhan\OneDrive\Desktop\C#\QRCodeGenerator\QRCodeGenerator\bin\Debug\Zen.Barcode.Core.dll
