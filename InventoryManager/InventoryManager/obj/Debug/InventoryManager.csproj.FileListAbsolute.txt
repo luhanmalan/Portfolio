@@ -1,0 +1,11 @@
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.AssemblyReference.cache
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.InventoryManagementStudio.resources
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.cache
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+C:\Users\luhan\OneDrive\Desktop\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
